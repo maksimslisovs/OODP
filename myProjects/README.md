@@ -2,8 +2,10 @@ This project is manage moto show performance, you can convert from engine sizes 
 
 patterns used:
 
-Creational Patterns: Prototype
-Structural Patterns: Composite, Adapter
-Behavioral Patterns: Iterator, Command
+Creational Patterns: Prototype.
+
+Structural Patterns: Composite, Adapter.
+
+Behavioral Patterns: Iterator, Command.
 
 In Main class you can run every pattern.
